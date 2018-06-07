@@ -1,8 +1,7 @@
 ﻿  ConsoleApplication3.cpp
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(53): warning C4101: securityDescriptor: неиспользованная локальная переменная
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(128): warning C4101: i: неиспользованная локальная переменная
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(137): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(32): warning C4715: checkConnection: значение возвращается не при всех путях выполнения
   ConsoleApplication3.vcxproj -> C:\Users\Asus\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
